@@ -1,6 +1,10 @@
 Hello From Mno
 New Text Added
 1
+<<<<<<< HEAD
 2
 3
 4
+=======
+
+>>>>>>> parent of b4d2dce... 2st commit
